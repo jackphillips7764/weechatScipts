@@ -23,8 +23,6 @@ def message(data, bufferp, tm, tags, display, is_hilight, prefix, msg):
 			weechat.command(buffer, "/mode -q kevin")
 			weechat.prnt("", "/mode -aaa tiecoon Hawkheart kevin")
 	return weechat.WEECHAT_RC_OK
-	#
-	#
 
 
 weechat.hook_print("", "", "", 1, "message", "") # catch all messages
