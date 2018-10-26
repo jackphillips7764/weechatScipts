@@ -39,7 +39,7 @@ def prism_cmd_cb(data, buffer, args):
     output +="     \\\\=\"==\"=//\n"
     output +="  ===/        \===\n"
     output +=" \===\        /===\\\n"
-    output +="  \===\\------/ === \\\n" agagagaga       
+    output +="  \===\\------/ === \\\n" agagagagaga     
     output +="   \                \\\n"
 
 
